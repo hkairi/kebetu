@@ -11,6 +11,11 @@ Pour enregisrer une application sur Twitter : https://dev.twitter.com/apps/new  
 =Chat : 
   IRC freenode.net #dakarlug
 
+
+= Outils utilisés pour ce bout de code :
+ - python
+ - tweepy
+
 =Code source : 
     <https://github.com/Dakarlug/kebetu>
     
