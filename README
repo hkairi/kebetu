@@ -1,14 +1,17 @@
-Un code pour mettre à jour son statut twitter de manière automatiquement !
+= c'est quoi ?
+Un code pour mettre à jour son statut twitter de manière automatique!
 
-Documentation: 
-Remplacez CONSUMERKEY et CONSUMERSECRET par les informations d'identification de votre application twitter
+=Documentation : 
+Remplacez CONSUMERKEY et CONSUMERSECRET par les informations d'identification de votre application twitter.
+Pour enregisrer une application sur Twitter : https://dev.twitter.com/apps/new  .
 
-Liste de diffusion:
+=Liste de diffusion DakarLUG :
     <http://news.gmane.org/gmane.org.user-groups.linux.dakarlug>
 
-Chat: IRC freenode.net #dakarlug
+=Chat : 
+  IRC freenode.net #dakarlug
 
-Code source: 
+=Code source : 
     <https://github.com/Dakarlug/kebetu>
     
 
